@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://veupnea.github.io/</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/index.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/news.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/about.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/team.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publications.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/projects.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/software_data.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/contact.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/siggraph22-ccp.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/eg22-authoringvirtualcrowds.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/vrst21-Perceived.html</loc>
+  <lastmod>2022-07-31T13:40:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/CoG21-Towards.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/CoG21-Emotion.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/GCH20-Digital.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://veupnea.github.io/publication_pages/MIG-Why.html</loc>
+  <lastmod>2022-07-31T13:40:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
